@@ -1,7 +1,7 @@
 # portfolio
 
 Web Page Portfolio
-This program was designed in Ui/ UX design class using XD adobe. I then programmedit in web design creating a personl portfolio
+This program was designed in Ui/ UX design class using XD adobe. I then programmed it in web design creating a personl portfolio
 of my work for a business page. This includes my own business name and logo.
 
 Refernces:
